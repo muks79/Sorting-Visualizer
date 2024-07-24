@@ -1,6 +1,6 @@
 # Sorting Visualizer
 
-Welcome to my Netflix clone, a project crafted with HTML, CSS, and JavaScript that brings the streaming giant's user interface to life! 🎬🍿
+Welcome to the Sorting Visualizer! This project is designed to help you understand various sorting algorithms by visualizing them in action. It provides a clear and interactive way to see how different algorithms process data to sort it.
 
 ## Features
 
